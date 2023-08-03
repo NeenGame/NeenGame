@@ -1,4 +1,13 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/812715220182761472)](https://discord.com/users/812715220182761472)
+<p align="center">
+  <a href="https://github.com/neengame?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fneengame"/></a>
+  <a href="https://github.com/neengame?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/neengame?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/neengame/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=neengame&style=for-the-badge&color=lightgrey"/></a>
+</p>
+
+-----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -15,4 +24,6 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-</p>
+    
+-----
+[![Discord Presence](https://lanyard.cnrad.dev/api/812715220182761472)](https://discord.com/users/812715220182761472)
